@@ -99,7 +99,7 @@ VarMax = 2.5
 
 GetTheBias(responseM, dataCorrected, mig_hist, cfg['Niterations'], VarMin, VarMax, cfg['Channel'], cfg['Energy'], cfg['Variable'])
 
-'''
+
 ToysOfData = GetToysofData(fInput_Data_BS, cfg['Channel'], cfg['Variable'], cfg['Energy'])
 
 for i in range(0, len(ToysOfData) ):
@@ -154,5 +154,5 @@ for i in range(0, cfg['Niterations']):
 #    ToysOfData[i].Write("Toys_data"+str(i+1))
 for i in range(0, len(CovarianceMatrix) ):
     CovarianceMatrix[i].Write("CovarianceMatrix_Iter"+str(i+1))       
-'''
+
 print("Fin")
