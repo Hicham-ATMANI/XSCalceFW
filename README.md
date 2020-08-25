@@ -23,4 +23,7 @@ This framework is used for the measurement of the differential cross sections fo
 
 <img width="724" alt="Screenshot 2020-08-25 at 12 00 52" src="https://user-images.githubusercontent.com/53044514/91161149-a7ba2d00-e6ca-11ea-9eb7-7db196983a8c.png">
 
-- Calculate the <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^{2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\chi^{2}" title="\chi^{2}" /></a> value between data and simulation (templates), without correlation, defined as: <br />
+- Propagation of uncertainties and evaluate the correlation between bins using toys:
+
+<img width="1439" alt="Screenshot 2020-08-25 at 12 13 22" src="https://user-images.githubusercontent.com/53044514/91162462-6460be00-e6cc-11ea-9433-0e741c8f64da.png">
+
