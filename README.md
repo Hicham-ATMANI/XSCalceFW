@@ -1,14 +1,10 @@
-# XsCalcule
-
-Building
-========
-
-Use GNU make. Just type
-
-  make
-
-to build the RooUnfold shared library.
-
+```
 Running
-=======
+```
+
+make (to build the RooUnfold shared library)
 python run/Unfolding.py
+
+```
+Description
+```
