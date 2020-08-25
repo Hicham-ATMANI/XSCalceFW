@@ -14,8 +14,7 @@ This framework is used for the measurement of the differential cross sections fo
 
 - Make control plots comparing data and simulation:
 
-<img width="335" alt="Screenshot 2020-08-25 at 12 02 21" src="https://user-images.githubusercontent.com/53044514/91161287-dd5f1600-e6ca-11ea-8a8e-8fb64f9df1db.png">
-<img width="341" alt="Screenshot 2020-08-25 at 12 02 25" src="https://user-images.githubusercontent.com/53044514/91161309-e4862400-e6ca-11ea-9bdb-7b6123a476c6.png">
+<img width="335" alt="Screenshot 2020-08-25 at 12 02 21" src="https://user-images.githubusercontent.com/53044514/91161287-dd5f1600-e6ca-11ea-8a8e-8fb64f9df1db.png"> <img width="341" alt="Screenshot 2020-08-25 at 12 02 25" src="https://user-images.githubusercontent.com/53044514/91161309-e4862400-e6ca-11ea-9bdb-7b6123a476c6.png">
 
 
 - Unfoled data distributions using the RooUnfold library:
