@@ -19,9 +19,10 @@ This framework is used for the measurement of the differential cross sections fo
 
 
 
-- Unfoled data distributions using the RooUnfold library:
+- Unfoled data distributions using the RooUnfold library: <br />
 
-<img width="724" alt="Screenshot 2020-08-25 at 12 00 52" src="https://user-images.githubusercontent.com/53044514/91161149-a7ba2d00-e6ca-11ea-9eb7-7db196983a8c.png">
+
+          <a href="https://www.codecogs.com/eqnedit.php?latex=N_{Unfolded}&space;=&space;\sum_{j}&space;M_{j&space;k}^{-1}\left(N_{j}^{\mathrm{data}}-\hat{B}_{j}\right)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?N_{Unfolded}&space;=&space;\sum_{j}&space;M_{j&space;k}^{-1}\left(N_{j}^{\mathrm{data}}-\hat{B}_{j}\right)" title="N_{Unfolded} = \sum_{j} M_{j k}^{-1}\left(N_{j}^{\mathrm{data}}-\hat{B}_{j}\right)" /></a>
 
 - Propagation of uncertainties and evaluate the correlation between bins using toys:
 
