@@ -27,3 +27,8 @@ This framework is used for the measurement of the differential cross sections fo
 
 <img width="724" alt="Screenshot 2020-08-25 at 12 13 22" src="https://user-images.githubusercontent.com/53044514/91162462-6460be00-e6cc-11ea-9433-0e741c8f64da.png">
 
+- Calculate the differential cross sections using the unfolded distributions:
+
+<img width="724" alt="Screenshot 2020-08-25 at 12 20 47" src="https://user-images.githubusercontent.com/53044514/91163163-7000b480-e6cd-11ea-9cd6-30e9bcd52402.png">
+
+
