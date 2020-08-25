@@ -25,5 +25,5 @@ This framework is used for the measurement of the differential cross sections fo
 
 - Propagation of uncertainties and evaluate the correlation between bins using toys:
 
-<img width="1439" alt="Screenshot 2020-08-25 at 12 13 22" src="https://user-images.githubusercontent.com/53044514/91162462-6460be00-e6cc-11ea-9433-0e741c8f64da.png">
+<img width="724" alt="Screenshot 2020-08-25 at 12 13 22" src="https://user-images.githubusercontent.com/53044514/91162462-6460be00-e6cc-11ea-9433-0e741c8f64da.png">
 
